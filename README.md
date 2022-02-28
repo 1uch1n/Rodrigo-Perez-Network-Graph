@@ -4,6 +4,7 @@ This project is an experiment in Digital Humanities / Theater studies. Data visu
 
 The repository includes :
 - a Python script to turn the original plays database into a Gephi-readeable database (that is, nodes and the links that connect them).
+- Gephi files
 - the first few graph visualization expriments
 
 Graphs were made with Gephi software (https://gephi.org/)
